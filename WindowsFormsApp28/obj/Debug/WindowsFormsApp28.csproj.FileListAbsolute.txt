@@ -1,0 +1,10 @@
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\zelenyo.04\source\repos\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
